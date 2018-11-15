@@ -3,7 +3,7 @@
 $(document).on("pagecreate","#pageone",function(){
   
   	$('#pressme').on("tap",function(){
-    	$(alert: "Beep boop bep!");
+    	$(alert: "Beep boop beep!");
  	});                       
 
 
