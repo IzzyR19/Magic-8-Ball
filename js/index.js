@@ -6,5 +6,12 @@ $(document).on("pagecreate","#pageone",function(){
     	alert("Beep boop beep!");
  	});                       
 
+    function random() {
+	return !Math.round(Math.random());
+        
+     $("#myText").random);
+        
+}
+
 
 });
