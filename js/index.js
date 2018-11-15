@@ -3,13 +3,15 @@
 $(document).on("pagecreate","#pageone",function(){
   
   	$('#pressme').on("tap",function(){
-    	alert(The answer is <span id="myText"> Idk </span>);
+    	
  	});                       
 
-    function random() {
+    function random(id="function") {
 	return !Math.round(Math.random());
         
-     $("#myText").random);
+        
+        
+     
         
 }
 
