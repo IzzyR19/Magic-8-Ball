@@ -3,7 +3,7 @@
 $(document).on("pagecreate","#pageone",function(){
   
   	$('#pressme').on("tap",function(){
-    	alert("Beep boop beep!");
+    	alert(The answer is <span id="myText"> Idk </span>);
  	});                       
 
     function random() {
