@@ -8,6 +8,8 @@ $(document).on("pagecreate","#pageone",function(){
 
     function random(id="function") {
 	return !Math.round(Math.random());
+        var text =$('#function').random();
+        alert(text);
         
         
         
