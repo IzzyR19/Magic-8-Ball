@@ -6,10 +6,10 @@
         id        = "mob.app.dev.Storage"
         version   = "1.0.0">
 
-    <name>Touch stuff</name>
+    <name>8 Ball</name>
 
     <description>
-        Testing touch input
+        This is an 8 ball, maybe
     </description>
 
     <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
