@@ -3,10 +3,8 @@
 $(document).on("pagecreate","#pageone",function(){
   
   	$('#pressme').on("tap",function(){
-    	$(alert: "you pressed me!");
+    	$(alert: "Beep boop beep!");
  	});                       
-
-	  
 
 
 });
